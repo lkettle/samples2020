@@ -1,0 +1,7 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="E:\Java\Java\IntelliJ IDEA 2019.3.2\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:/Users/Linda Kettle/.m2/repository" />
+    <macro name="PATH_TO_FX" value="E:/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Microsoft YaHei" />
+    <option name="LINE_SPACING" value="1.4" />
+  </component>
+</application>
