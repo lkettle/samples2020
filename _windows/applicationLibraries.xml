@@ -2,14 +2,25 @@
   <component name="libraryTable">
     <library name="lib">
       <CLASSES>
-        <root url="file://E:/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
+        <root url="file://$PATH_TO_FX$" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://E:/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" />
+        <root url="file://$PATH_TO_FX$" />
       </SOURCES>
-      <jarDirectory url="file://E:/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" recursive="false" />
-      <jarDirectory url="file://E:/Java/openjfx-13.0.2_windows-x64_bin-sdk/javafx-sdk-13.0.2/lib" recursive="false" type="SOURCES" />
+      <jarDirectory url="file://$PATH_TO_FX$" recursive="false" />
+      <jarDirectory url="file://$PATH_TO_FX$" recursive="false" type="SOURCES" />
+    </library>
+    <library name="lib1">
+      <CLASSES>
+        <root url="file://$PATH_TO_FX$" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$PATH_TO_FX$" />
+      </SOURCES>
+      <jarDirectory url="file://$PATH_TO_FX$" recursive="false" />
+      <jarDirectory url="file://$PATH_TO_FX$" recursive="false" type="SOURCES" />
     </library>
   </component>
 </application>
